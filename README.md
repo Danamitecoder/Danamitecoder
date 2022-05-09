@@ -3,7 +3,7 @@
 </div>  
   
 ### <div align="center">I'm Dana, a full-stack freelance developer 🚀</div>  
-  
+  <br>
 - 🔭 I’m currently learning the MERN stack
   
 - ❓ Ask me about anything related to MERN stack and related technologies  
