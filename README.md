@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-<a href="danathedev.netlify.com">
+<a href="https://danathedev.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-C9388B?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/asper_jacob">
@@ -26,7 +26,7 @@
 
 <p align="center">Community taught software engineer with a proven track record of creating fully functional full stack web applications. I am currently looking for full time work and open to work on any interesting projects. </p>
 
-### <div align="center">Go to <a href="danathedev.netlify.com">my portfolio</a> for more information!</div>
+### <div align="center">Go to <a href="https://danathedev.netlify.app/">my portfolio</a> for more information!</div>
 
 ---
 
@@ -156,7 +156,7 @@
 
 ## Connect with me
 
-<a href="danathedev.netlify.com">
+<a href="https://danathedev.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-C9388B?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/danamitecoder">
