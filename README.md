@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center">
 <img src="githublogo.png" align="center" style="width: 100%" />
-</div>
+</div> -->
 
 ### <div align="center">I'm Dana, a full stack software engineer</div>
 
@@ -37,9 +37,9 @@
 <h2 align="center" color="white">Projects</h2>
 <div align="center">
 	<table>
-		<tr>
+		<!-- <tr>
 			<!--project 1 -->
-			<td width="50%">
+			<!-- <td width="50%">
 				<h3 align="center" color="white">100 Hours Project</h2>
 				<div align="center" > 
 					<a href=" ">
@@ -47,21 +47,21 @@
 					</a>
 					<br>
 					<br>
-					<div>
+					<div> -->
                         <!--repo --> 
-						<a href=''>
+						<!-- <a href=''>
 							<img src="" alt=""/>
-						</a>  
+						</a>   -->
                         <!--live site --> 
-						<a href="">
+						<!-- <a href="">
 							<img src="" alt="Live Site"/>
 						</a>	
 					</div>
 					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose, Cloudinary</h5>
 					<p></p>
-				</div>
+				</div> -->
 		<!--project 2 -->
-				<td width="50%">
+				<!-- <td width="50%">
 				<h3 align="center" color="white">100 Hours Project</h2>
 				<div align="center" > 
 					<a href=" ">
@@ -71,17 +71,17 @@
 					<br>
 					<div>
                         <!--repo --> 
-						<a href=''>
+						<!-- <a href=''>
 							<img src="" alt=""/>
-						</a>  
+						</a>   -->
                         <!--live site --> 
-						<a href="">
+						<!-- <a href="">
 							<img src="" alt="Live Site"/>
 						</a>	
 					</div>
 					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose, Cloudinary</h5>
 					<p></p>
-				</div>
+				</div> --> 
     </tr>
 			<!--project 3 -->
 			<td width="50%">
@@ -99,11 +99,11 @@
 						</a>  
                         <!--live site --> 
 						<a href="https://paihsportfolios.netlify.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=C9388B" alt="Live Site"/>
 						</a>	
 					</div>
 					<h5>JavaScript, CSS, HTML</h5>
-					<p>An introduction to PBATS and Mentoring at PAIHS</p>
+					<p>An Introduction to PBATS and Mentoring at PAIHS</p>
 				</div>
 			</td>
 			<!--project 4 -->
@@ -122,7 +122,7 @@
 						</a>  
                         <!--live site --> 
 						<a href="https://coding-resources-api.up.railway.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" alt="Live Site"/>
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=C9388B" alt="Live Site"/>
 						</a>	
 					</div>
 					<h5>JavaScript, CSS, HTML, Node, Express</h5>
@@ -156,17 +156,17 @@
 
 ## Connect with me
 
-<a href="https://jacobasper.com/">
-<img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
+<a href="danathedev.netlify.com">
+<img src="https://img.shields.io/badge/Portfolio-C9388B?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/asper_jacob">
-<img src="https://img.shields.io/badge/twitter-FE7500?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+<a href="https://twitter.com/danamitecoder">
+<img src="https://img.shields.io/badge/twitter-C9388B?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/jacobasper191">
-<img src="https://img.shields.io/badge/linkedin-FE7500?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/danalee1">
+<img src="https://img.shields.io/badge/linkedin-C9388B?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
-<a href="https://angel.co/u/20jasper">
-<img src="https://img.shields.io/badge/AngelList-FE7500?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
+<a href="https://angel.co/u/danamitecoder">
+<img src="https://img.shields.io/badge/AngelList-C9388B?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
 </a>  
 </div>
 
