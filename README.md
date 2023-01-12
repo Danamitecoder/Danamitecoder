@@ -11,13 +11,13 @@
 <a href="https://danathedev.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-C9388B?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/asper_jacob">
+<a href="https://twitter.com/danamitecoder">
 <img src="https://img.shields.io/badge/twitter-C9388B?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/jacobasper191">
+<a href="https://linkedin.com/in/danalee1">
 <img src="https://img.shields.io/badge/linkedin-C9388B?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
-<a href="https://angel.co/u/20jasper">
+<a href="https://angel.co/u/danamitecoder">
 <img src="https://img.shields.io/badge/AngelList-C9388B?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
 </a>  
 </div>
