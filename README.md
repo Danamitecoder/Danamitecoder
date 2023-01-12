@@ -24,7 +24,7 @@
 
 <br/>
 
-<p align="center">Community taught software engineer with a proven track record of creating fully functional full stack web applications. I am currently looking for full time work and open to work on any interesting projects. </p>
+<p align="center">Hi! I am a community taught software engineer with a proven track record of creating fully functional full stack web applications. I am currently looking for full time work and open to work on any interesting projects. </p>
 
 ### <div align="center">Go to <a href="https://danathedev.netlify.app/">my portfolio</a> for more information!</div>
 
