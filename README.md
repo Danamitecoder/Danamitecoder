@@ -64,7 +64,7 @@
 				 <td width="50%">
 				<h3 align="center" color="white">Full Stack Interview Questions</h2>
 				<div align="center" > 
-					<a href="https://gfycat.com/ignorantexcitablebluetickcoonhound">
+					<a href="https://full-stack-interview-prep.up.railway.app/">
 						<img src="" />
 					</a>
 					<br>
@@ -79,7 +79,7 @@
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=C9388B" alt="Live Site"/>
 						</a>	
 					</div>
-					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose, Cloudinary</h5>
+					<h5>HTML, CSS, JavaScript, Node.js, Express</h5>
 					<p></p>
 				</div>  
     </tr>
