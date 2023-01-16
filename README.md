@@ -61,7 +61,7 @@
 					<p></p>
 				</div> -->
 		<!--project 2 -->		 
-			<td width="50%">
+			<td width="100%">
                 <h3 align="center" color="white">Full Stack Interview Questions</h2>
                 <div align="center" > 
                     <a href="https://full-stack-interview-prep.up.railway.app/">
