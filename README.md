@@ -71,12 +71,12 @@
 					<br>
 					<div>
                         <repo
-						 <a href=''>
-							<img src="" alt=""/>
+						 <a href='https://github.com/the-api-administration/interview-question-api'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo"/>
 						</a>  
                         <live site 
-						<a href="">
-							<img src="" alt="Live Site"/>
+						<a href="https://full-stack-interview-prep.up.railway.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=C9388B" alt="Live Site"/>
 						</a>	
 					</div>
 					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose, Cloudinary</h5>
