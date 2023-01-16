@@ -37,8 +37,8 @@
 <h2 align="center" color="white">Projects</h2>
 <div align="center">
 	<table>
-		<!-- <tr>
-			<!--project 1 -->
+	 <tr> 
+		<!--project 1 -->
 			<!-- <td width="50%">
 				<h3 align="center" color="white">100 Hours Project</h2>
 				<div align="center" > 
@@ -60,30 +60,30 @@
 					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose, Cloudinary</h5>
 					<p></p>
 				</div> -->
-		<!--project 2 -->
-				 <td width="50%">
-				<h3 align="center" color="white">Full Stack Interview Questions</h2>
+		<!--project 2 -->		 
+    </tr>
+			<td width="50%">
+				<h3 align="center" color="white">PAIHS Portfolios</h2>
 				<div align="center" > 
-					<a href="https://full-stack-interview-prep.up.railway.app/">
-						<img src="Images/Interview.png" />
+					<a href="https://paihsportfolios.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/78604367/190449712-5d834ec4-354c-4a35-953b-47ff17f5c5b1.png" alt="A large purple crest with hands handing the globe below a large purple heading that says PAIHS portfolios" />
 					</a>
 					<br>
 					<br>
 					<div>
-                        <!--repo -->
-						 <a href='https://github.com/the-api-administration/interview-question-api'>
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo"/>
+                        <!--repo --> 
+						<a href='https://github.com/20jasper/PAIHS-portfolio-page' alt="GitHub Repo">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-                        <!-- live site --> 
-						<a href="https://full-stack-interview-prep.up.railway.app/">
+                        <!--live site --> 
+						<a href="https://paihsportfolios.netlify.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=C9388B" alt="Live Site"/>
 						</a>	
 					</div>
-					<h5>HTML, CSS, JavaScript, Node.js, Express</h5>
-					<p></p>
-				</div>  
-				</td>
-    </tr>
+					<h5>JavaScript, CSS, HTML</h5>
+					<p>An Introduction to PBATS and Mentoring at PAIHS</p>
+				</div>
+			</td>
 			<!--project 3 -->
 			<td width="50%">
 				<h3 align="center" color="white">PAIHS Portfolios</h2>
