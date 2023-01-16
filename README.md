@@ -60,8 +60,9 @@
 					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose, Cloudinary</h5>
 					<p></p>
 				</div> -->
-		<!--project 2 -->		 
-			<td width="100%">
+		<!--project 2 -->		
+		<div align="center"> 
+			<td width="50%">
                 <h3 align="center" color="white">Full Stack Interview Questions</h2>
                 <div align="center" > 
                     <a href="https://full-stack-interview-prep.up.railway.app/">
@@ -83,6 +84,7 @@
                     <p></p>
                 </div>  
             </td>
+		</div>
 	 </tr>
 			<!--project 3 -->
 			<td width="50%">
