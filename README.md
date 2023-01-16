@@ -61,7 +61,6 @@
 					<p></p>
 				</div> -->
 		<!--project 2 -->		 
-    </tr>
 			<td width="50%">
 				<h3 align="center" color="white">PAIHS Portfolios</h2>
 				<div align="center" > 
@@ -84,6 +83,7 @@
 					<p>An Introduction to PBATS and Mentoring at PAIHS</p>
 				</div>
 			</td>
+	 </tr>
 			<!--project 3 -->
 			<td width="50%">
 				<h3 align="center" color="white">PAIHS Portfolios</h2>
