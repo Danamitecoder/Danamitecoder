@@ -64,7 +64,7 @@
 				 <td width="50%">
 				<h3 align="center" color="white">Full Stack Interview Questions</h2>
 				<div align="center" > 
-					<a href=" ">
+					<a href="https://github.com/bytesbybianca/readme-assets/blob/main/project-images/fullStackInterviewQuestions.gif?raw=true">
 						<img src="" />
 					</a>
 					<br>
