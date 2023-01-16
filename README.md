@@ -60,9 +60,9 @@
 					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose, Cloudinary</h5>
 					<p></p>
 				</div> -->
-		<!--project 2 -->
-				<!-- <td width="50%">
-				<h3 align="center" color="white">100 Hours Project</h2>
+		project 2 
+				 <td width="50%">
+				<h3 align="center" color="white">Full Stack Interview Questions</h2>
 				<div align="center" > 
 					<a href=" ">
 						<img src="" />
@@ -70,18 +70,18 @@
 					<br>
 					<br>
 					<div>
-                        <!--repo --> 
-						<!-- <a href=''>
+                        <repo
+						 <a href=''>
 							<img src="" alt=""/>
-						</a>   -->
-                        <!--live site --> 
-						<!-- <a href="">
+						</a>  
+                        <live site 
+						<a href="">
 							<img src="" alt="Live Site"/>
 						</a>	
 					</div>
 					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose, Cloudinary</h5>
 					<p></p>
-				</div> --> 
+				</div>  
     </tr>
 			<!--project 3 -->
 			<td width="50%">
