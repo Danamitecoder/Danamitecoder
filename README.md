@@ -84,28 +84,6 @@
                     <p></p>
                 </div>  
             </td>
-			<td width="50%">
-                <h3 align="center" color="white">Full Stack Interview Study Buddy</h2>
-                <div align="center" > 
-                    <a href="https://full-stack-interview-prep.up.railway.app/">
-                        <img src="Images/Interview.png" />
-                    </a>
-                    <br>
-                    <br>
-                    <div>
-                        <!--repo -->
-                         <a href='https://github.com/the-api-administration/interview-question-api'>
-                            <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo"/>
-                        </a>  
-                        <!-- live site --> 
-                        <a href="https://full-stack-interview-prep.up.railway.app/">
-                            <img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=C9388B" alt="Live Site"/>
-                        </a>    
-                    </div>
-                    <h5>HTML, CSS, JavaScript, Node.js, Express</h5>
-                    <p></p>
-                </div>  
-            </td>
 		</div>
 	 </tr>
 			<!--project 3 -->
