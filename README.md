@@ -60,7 +60,7 @@
 					<h5>JavaScript, CSS, Node, Express, Pug, MongoDB, Mongoose, Cloudinary</h5>
 					<p></p>
 				</div> -->
-		project 2 
+		<!--project 2 -->
 				 <td width="50%">
 				<h3 align="center" color="white">Full Stack Interview Questions</h2>
 				<div align="center" > 
