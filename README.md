@@ -82,6 +82,7 @@
 					<h5>HTML, CSS, JavaScript, Node.js, Express</h5>
 					<p></p>
 				</div>  
+				</td>
     </tr>
 			<!--project 3 -->
 			<td width="50%">
