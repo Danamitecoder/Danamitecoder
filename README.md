@@ -37,7 +37,7 @@
 <h2 align="center" color="white">Projects</h2>
 <div align="center">
 	<table>
-	 <tr> 
+	 <tr width="100%"> 
 		<!--project 1 -->
 			<!-- <td width="50%">
 				<h3 align="center" color="white">100 Hours Project</h2>
@@ -63,7 +63,7 @@
 		<!--project 2 -->		
 		<div align="center"> 
 			<td width="50%">
-                <h3 align="center" color="white">Full Stack Interview Questions</h2>
+                <h3 align="center" color="white">Full Stack Interview Study App</h2>
                 <div align="center" > 
                     <a href="https://full-stack-interview-prep.up.railway.app/">
                         <img src="Images/Interview.png" />
