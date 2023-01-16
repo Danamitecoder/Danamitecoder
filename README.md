@@ -70,11 +70,11 @@
 					<br>
 					<br>
 					<div>
-                        <repo
+                        <!--repo -->
 						 <a href='https://github.com/the-api-administration/interview-question-api'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo"/>
 						</a>  
-                        <live site 
+                        <!-- live site --> 
 						<a href="https://full-stack-interview-prep.up.railway.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=C9388B" alt="Live Site"/>
 						</a>	
