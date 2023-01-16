@@ -61,7 +61,7 @@
 					<p></p>
 				</div> -->
 		<!--project 2 -->		 
-			<td width="50%">
+			<td width="50%" background-color="gray>
 				<h3 align="center" color="white">PAIHS Portfolios</h2>
 				<div align="center" > 
 					<a href="https://paihsportfolios.netlify.app/">
