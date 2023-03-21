@@ -9,7 +9,7 @@
 
 <div align="center">
 <a href="https://danathedev.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-C9388B?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
+<!-- <img src="https://img.shields.io/badge/Portfolio-C9388B?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" /> -->
 </a>
 <a href="https://twitter.com/danamitecoder">
 <img src="https://img.shields.io/badge/twitter-C9388B?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
